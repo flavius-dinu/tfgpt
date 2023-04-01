@@ -13,7 +13,14 @@ The tool offers support for the following Terraform commands:
 * show
 
 
-Additionally, it includes functions to interact with OpenAI's GPT-3.5 Turbo API to request explanations for Terraform commands and concepts. As adoption will grow for GPT-4, the 
+Additionally, it includes functions to interact with OpenAI's GPT-3.5 Turbo API to request explanations for Terraform commands and concepts. As adoption will grow for GPT-4, this will change to use GPT-4 instead.
+
+
+
+
+https://user-images.githubusercontent.com/57911064/229308688-0082f72a-ddb6-47cf-bab4-7f891c869f84.mp4
+
+
 
 ## Prerequisites
 To use this tool, you need to have the following:
@@ -23,6 +30,14 @@ To use this tool, you need to have the following:
 * Terraform installed on your system
 
 * OpenAI API key
+
+
+To generate the OpenAI API key you have to go to https://platform.openai.com/account/api-keys and create an api key, similar to:
+
+
+
+https://user-images.githubusercontent.com/57911064/229308740-cdbf8574-992e-40e2-9ef6-f617c46fe657.mp4
+
 
 
 ### Setup
