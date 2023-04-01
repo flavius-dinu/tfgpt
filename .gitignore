@@ -1,0 +1,26 @@
+# Binaries
+/bin/tfgpt
+tfgpt
+
+# Executable files on Windows
+/bin/tfgpt.exe
+tfgpt.exe
+
+# Dependency directories
+/vendor/
+
+# Build artifacts
+*.o
+*.a
+*.so
+
+# Log files
+*.log
+
+# Test binaries
+*_test
+
+# Terraform
+*.tf
+*state*
+.terraform*
